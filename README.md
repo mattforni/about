@@ -2,12 +2,15 @@
 ## Before We Begin
 This document is my *attempt* to capture how best to work with me. I imagine it will undergo a multitude of changes as the years pass and it should be considered a work in progress, much like myself. A few things before I begin:
 
-* I go by **Forni**. In all honesty, not really sure when that started, but it sure stuck.
+* I go by **Forni**. In all honesty, I can't recall the origin of the nickname, but it sure stuck.
+* I've been *accurately* described as an **introvert** masquerading as an **extrovert**.
 * I try to be as **open** and **transparent** as humanly possible and appreciate those who reciprocate.
-* I'm big on **feedback** and ask that you provide it *early* and *often*. I will be.
-* I appreciate a good **sense of humor** if it comes with an understanding of when to be **serious**.
-* I've been accurately described as an **introvert** masquerading as an **extrovert**.
-* I find peace in the **outdoors** and regularly completely disconnect.
+* I'm big on **feedback** and ask that you provide it *early* and *often*. **I will be.**
+* I appreciate a **sense of humor** so long as it comes with an understanding of when to be **serious**.
+* It *can* take me some time to **"warm up"** to new people. I'm not *judging*, I'm just *observing*.
+* People *(and the relationships I form with them)* are of the **utmost importance** to me.
+* I am fiercely **loyal** and will readily go to the ends of the Earth for my people.
+* I find peace in the **outdoors** and regularly *completely disconnect*.
 * I use the **24-hour clock**. It can be confusing, I know and I'm sorry.
 
 ## My Day
@@ -34,7 +37,7 @@ I have found that communication is at the core of all relationships, be they fri
   
 2. **Slack (DM)** *(Near-Term)*
 
-  If you've got a *quick* ask for me or want to run something by me that needs attention in the next few days, feel free to shoot me a DM. Try to keep the message to a few sentences that expound on *what* you need and *when* you need it. I'll do my best to acknowledge your message in a timely manner and let you know when I'll follow up.
+  If you've got a *quick* ask for me or want to run something by me that needs attention in the next few days, feel free to shoot me a DM. Try to keep the message to a few sentences that expound on *what* you need and *when* you need it. I'll do my best to acknowledge your message in a timely manner and let you know *when* I'll follow up.
   
 3. **Email** *(Long-Term)*
 
@@ -53,7 +56,7 @@ I have found that communication is at the core of all relationships, be they fri
 I schedule 1:1s in different cadences for different lengths of time depending on how frequently I feel we need to chat. If you think we're meeting too frequently, not frequently enough or not for long enough, let me know and I'll adjust appropriately. Outside of our normally scheduled 1:1s you are **always** welcome to bring something up out of band if it's pressing.
 
 ### Social Media
-I have found that social media does not serve me and as a result I have removed myself from most social networks. I have maintained a few which I find useful or necessary (or so I'm told).
+I have found that social media **does not** serve me and as a result I have removed myself from most social networks. I have maintained a few which I find useful or necessary *(or so I'm told)*.
 
 * [GitHub](https://github.com/mattforni)
 * [Goodreads](https://www.goodreads.com/user/show/50308926-matthew-fornaciari)
@@ -63,17 +66,17 @@ I have found that social media does not serve me and as a result I have removed 
 ## Culture
 ### **"Culture is just the worst behaviour you’re willing to tolerate"**
 
-Culture is of the utmost importance to me, and as such I do my absolute best to protect and preserve it. I spend an inordinate amount of time reading and thinking about what makes a good culture and what we, as a company, should espouse. A wise person once told me *"unless you define your culture, someone else will do it for you"* which prompted me to take a stab at outlining a bit of it here.
+Culture is constantly on my mind, and as such I do my best to *protect, preserve and improve* it. I spend an inordinate amount of time reading and thinking about what makes a good culture and what we, as a company, should espouse. A wise person once told me *"unless you define your culture, someone else will do it for you"* and that resonated with me and prompted me to take a stab at outlining a bit of it here.
 
 ### Core Values
 #### Communicate Clearly
 Communicate directly, concisely and above all honestly. This is especially important when the topic is difficult or uncomfortable.
 
-#### Customer First
+#### Customers First
 Work tirelessly to ensure deliverables are of the utmost quality and empower our customers to be successful. Extend this same care to everyone, in and out of the workplace.
 
 #### Experiment and Iterate
-Be bold in experimenting with novel ways to better serve customers and community. Evaluate results quickly, adopting beneficial ideas while noting and abandoning unsuccessful pursuits.
+Be bold in experimenting with novel ways to better serve customers, community and the company. Evaluate results quickly, adopting beneficial ideas while noting and abandoning unsuccessful pursuits.
 
 #### Make it So
 Use your skill and judgement to make the right decisions, even if those decisions may be unpopular. Own those decisions, actions, and more importantly, the outcomes.
