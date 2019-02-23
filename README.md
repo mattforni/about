@@ -9,7 +9,6 @@ This document is my *attempt* to capture how best to work with me. I imagine it 
 * I appreciate a **sense of humor** so long as it comes with an understanding of when to be **serious**.
 * It *can* take me some time to **"warm up"** to new people. I'm not *judging*, I'm just *observing*.
 * People *(and the relationships I form with them)* are of the **utmost importance** to me.
-* I am fiercely **loyal** and will readily go to the ends of the Earth for my people.
 * I find peace in the **outdoors** and regularly *completely disconnect*.
 * I use the **24-hour clock**. It can be confusing, I know and I'm sorry.
 
@@ -100,4 +99,4 @@ When discussing strategy I like to start with where I (we) want to be in *X* day
 **NOTE** *I'm prone to overcommitting myself when it comes to meeting with people. While I love spending time with each of you, that's time that I'm not spending on strategy, and that's a problem for you, me and the company. If you see me trending this way, let me know immediately.*
 
 ## In Conclusion
-I'm really excited to be working with you! I hope this has been helpful in getting a bit more of an understanding as to how I operate. As I mentioned, this is by no means exhaustive and should be considered a living document. In that vein, I invite you to contribute to this document by providing me with feedback and helping me become better in all facets of the job. Cheers!
+I'm really excited to be working with you! I hope this has been helpful in getting a bit more of an understanding as to how I operate. As I mentioned, this is by no means exhaustive and should be considered a living document. In that vein, I invite you to contribute to this document by providing me with feedback and helping me become better in all facets of the job. Cheers!d
