@@ -7,6 +7,7 @@ This document is my *attempt* to capture how best to work with me. I imagine it 
 * I try to be as **open** and **transparent** as humanly possible and appreciate those who reciprocate.
 * I'm big on **feedback** and ask that you provide it *early* and *often*. **I will be.**
 * I appreciate a **sense of humor** so long as it comes with an understanding of when to be **serious**.
+* I can be **prickly** at times, and for that I apologize. It stems from an idealism I try my best to *temper*.
 * It *can* take me some time to **"warm up"** to new people. I'm not *judging*, I'm just *observing*.
 * People *(and the relationships I form with them)* are of the **utmost importance** to me.
 * I find peace in the **outdoors** and regularly *completely disconnect*.
@@ -44,23 +45,23 @@ I have found that communication is at the core of all relationships, be they fri
 
 ### 1:1s
 #### Purpose
-1:1s are **your time** to discuss *(almost) anything* you want to with me. If I have anything to bring up, I'll usually reserve the last **5 minutes** or so to address it and I'll let you know well in advance. Possible topics of conversation are:
+1:1s are **your time** to discuss *(almost) anything* you want to with me. If I have anything to bring up, I'll usually reserve the last **5 minutes** or so to address my topic(s) and I'll let you know well in advance. Some possible topics of conversation are:
 
-* Personal issues, if there's something going on in your life
+* Personal issues, if there is something going on in your life
 * Air concerns you may have about me, yourself or your team
 * Discuss personal growth and career trajectory
 * Discuss the bigger picture and the vision for the company
 
-#### Cadence
-I schedule 1:1s in different cadences for different lengths of time depending on how frequently I feel we need to chat. If you think we're meeting too frequently, not frequently enough or not for long enough, let me know and I'll adjust appropriately. Outside of our normally scheduled 1:1s you are **always** welcome to bring something up out of band if it's pressing.
+#### Frequency
+I schedule 1:1s at different frequencies for different lengths of time depending on how frequently I feel we need to chat. If you think we're meeting too frequently, not frequently enough or not for long enough, let me know and I'll adjust appropriately. Outside of our normally scheduled 1:1s you are **always** welcome to bring something up out of band.
 
 ### Social Media
-I have found that social media **does not** serve me and as a result I have removed myself from most social networks. I have maintained a few which I find useful or necessary *(or so I'm told)*.
+I have found that social media **does not** serve me and as a result I have removed myself from most social networks. I have maintained a few sites which I find useful or necessary *(or so I'm told)*.
 
+* [Twitter](https://twitter.com/callmeforni)
 * [GitHub](https://github.com/mattforni)
 * [Goodreads](https://www.goodreads.com/user/show/50308926-matthew-fornaciari)
 * [LinkedIn](https://www.linkedin.com/in/mattforni)
-* [Twitter](https://twitter.com/callmeforni)
 
 ## Culture
 ### **"Culture is just the worst behaviour you’re willing to tolerate"**
@@ -88,7 +89,7 @@ Use the right resources for the task at hand. Both excess and deficiency are fro
 I believe very strongly in hiring smart people and removing obstacles from their way so that they may be their most effective. If there is something in your way, bring it to me, but bring it to me with a **proposed solution**. That shows me that you've done the footwork of thinking through how to solve it on your own, and gives us a foundation for solving the issue.
 
 ### Collaborative
-I love to weigh-in on design, architecture and implemenation, often playing devil's advocate to make sure we're properly evaluating the trade offs. Don't take it pesonally, I'm just making sure you've thought things through. Once a solution is decided upon, I'm happy to take more of a backseat and let you do your best work, checking in on occasion to see if I can be of assistance.
+I love to weigh-in on design, architecture and implemenation, often playing devil's advocate to make sure we're properly evaluating the trade offs. Don't take it pesonally, I'm just making sure we've thought things through. Once a solution is decided upon, I'm happy to take more of a backseat and let you do your best work, checking in on occasion to see if I can be of assistance.
 
 ### All About the Data
 I studied Applied Math/Computer Science in school, so as you can imagine, I'm largely **data-driven**. There's nothing like a good metric and I absolutely love to measure things so we know where we're succeeding and where we need a little help. 
@@ -99,4 +100,4 @@ When discussing strategy I like to start with where I (we) want to be in *X* day
 **NOTE** *I'm prone to overcommitting myself when it comes to meeting with people. While I love spending time with each of you, that's time that I'm not spending on strategy, and that's a problem for you, me and the company. If you see me trending this way, let me know immediately.*
 
 ## In Conclusion
-I'm really excited to be working with you! I hope this has been helpful in getting a bit more of an understanding as to how I operate. As I mentioned, this is by no means exhaustive and should be considered a living document. In that vein, I invite you to contribute to this document by providing me with feedback and helping me become better in all facets of the job. Cheers!d
+I'm really excited to be working with you! I hope this has been helpful in getting a bit more of an understanding as to how I operate. As I mentioned, this is by no means exhaustive and should be considered a living document. In that vein, I invite you to contribute to this document by providing me with feedback and helping me become better in all facets of the job. Cheers!
