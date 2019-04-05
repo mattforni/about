@@ -78,6 +78,12 @@ Work tirelessly to ensure deliverables are of the utmost quality and empower our
 #### Experiment and Iterate
 Be bold in experimenting with novel ways to better serve customers, community and the company. Evaluate results quickly, adopting beneficial ideas while noting and abandoning unsuccessful pursuits.
 
+#### Community
+Take great pride in building and bolstering all facets of their community. We will only be successful if we empower our community to be successful, both technical and social.
+
+#### Skin in the Game
+Work hard to own their domain, mastering all aspects of their role as well as the product as a whole. In this vein, we educate our customers with sincerity since we eat our own dog food and practice what we preach.
+
 #### Make it So
 Use your skill and judgement to make the right decisions, even if those decisions may be unpopular. Own those decisions, actions, and more importantly, the outcomes.
 
