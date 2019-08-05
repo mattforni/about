@@ -2,14 +2,13 @@
 ## Before We Begin
 This document is my *attempt* to capture how best to work with me. I imagine it will undergo a multitude of changes as the years pass and it should be considered a work in progress, much like myself. A few things before I begin:
 
-* I go by **Forni**. In all honesty, I can't recall the origin of the nickname, but it sure stuck.
+* I go by **Forni**. In all honesty, I can't recall the origin of the nickname, but it sure **stuck**.
 * I've been *accurately* described as an **introvert** masquerading as an **extrovert**.
 * I try to be as **open** and **transparent** as humanly possible and appreciate those who reciprocate.
 * I'm big on **feedback** and ask that you provide it *early* and *often*. **I will be.**
 * I appreciate a **sense of humor** so long as it comes with an understanding of when to be **serious**.
-* I can be **prickly** at times, and for that I apologize. It stems from an idealism I try my best to *temper*.
-* It *can* take me some time to **"warm up"** to new people. I'm not *judging*, I'm just *observing*.
-* People *(and the relationships I form with them)* are of the **utmost importance** to me.
+* I've been described as **slow to "warm up"** to new people. Be assured that I genuinely **love** people but sometimes need some time to acclimate to new personalities.
+* I measure my life in terms of the relationships I’ve fostered and hope to spend **quality time** getting to know everyone I work with, regardless of role.
 * I find peace in the **outdoors** and regularly *completely disconnect*.
 * I use the **24-hour clock**. It can be confusing, I know and I'm sorry.
 
@@ -18,13 +17,13 @@ This document is my *attempt* to capture how best to work with me. I imagine it 
 I've found that I really enjoy the early hours of the morning, both for exercise and work. It's during this time that I usually follow up on the prior day's activities or attend to initiatives that are best handled heads down.
 
 ### Working Hours *(10:30 - 16:00)*
-Most of my days are consumed with meetings. I try my best to catch up on Slack and email between meetings though often times the meetings are back-to-back
+Most of my days are consumed with meetings. I try my best to catch up on Slack and email between meetings though often times the meetings are back-to-back.
 
 ### Early Evening *(16:00 - 18:00)*
 This time is usually spent catching up on the day and addressing any *quick* asks or anything that requires my immediate attention. I'm also happy to take calls in the early evening as I wind down.
 
 ### R&R *(18:00 - 05:30)*
-I believe very strongly in a healthy work/life balance and as such have become strict about enforcing offline hours. Unless absolutely necessary, my laptop is shut during these hours and I'm off pursuing one of my many other interests of catching up with friends.
+I believe very strongly in a healthy work/life balance and as such have become strict about enforcing offline hours. Unless absolutely necessary, my laptop is shut during these hours and I'm off pursuing one of my many other interests or catching up with friends.
 
 ## Communication
 I have found that communication is at the core of all relationships, be they friendly, professional or otherwise. My philosophy on communication can be summed up in a word: **succinct**. I aim to convey my point as quickly and concisely as possible and I ask that you do the same.
@@ -33,11 +32,11 @@ I have found that communication is at the core of all relationships, be they fri
 #### Means (Prioritized by Response Time)
 1. **Text/Page** *(Immediate)*
 
-  In my world, a work text, or worse a page, means there is something going horribly wrong and I need to take action immediately lest the whole world implode. This form of communication is to be used sparingly and with great gravitas.
+  In my world, a work text, or worse a page, means there is something going horribly wrong and I need to take action immediately lest the whole world **implode**. This form of communication is to be used **sparingly and with great gravitas**.
   
 2. **Slack (DM)** *(Near-Term)*
 
-  If you've got a *quick* ask for me or want to run something by me that needs attention in the next few days, feel free to shoot me a DM. Try to keep the message to a few sentences that expound on *what* you need and *when* you need it. I'll do my best to acknowledge your message in a timely manner and let you know *when* I'll follow up.
+  If you've got a *quick* ask for me or want to run something by me that needs attention in the next few days, feel free to shoot me a DM. Try to keep the message to a few sentences that expound on *what* you need and *when* you need it. I'll do my best to acknowledge your message in a timely manner and let you know **when I'll follow up**.
   
 3. **Email** *(Long-Term)*
 
@@ -66,7 +65,7 @@ I have found that social media **does not** serve me and as a result I have remo
 ## Culture
 ### **"Culture is just the worst behaviour you’re willing to tolerate"**
 
-Culture is constantly on my mind, and as such I do my best to *protect, preserve and improve* it. I spend an inordinate amount of time reading and thinking about what makes a good culture and what we, as a company, should espouse. A wise person once told me *"unless you define your culture, someone else will do it for you"* and that resonated with me and prompted me to take a stab at outlining a bit of it here.
+Culture is constantly on my mind, and as such I do my best to **protect, preserve and improve** it. I spend an inordinate amount of time reading and thinking about what makes a good culture and what we, as a company, should espouse. A wise person once told me **"unless you define your culture, someone else will do it for you"** and that resonated with me and prompted me to take a stab at outlining a bit of it here.
 
 ### Core Values
 #### Communicate Clearly
@@ -101,7 +100,7 @@ I love to weigh-in on design, architecture and implemenation, often playing devi
 I studied Applied Math/Computer Science in school, so as you can imagine, I'm largely **data-driven**. There's nothing like a good metric and I absolutely love to measure things so we know where we're succeeding and where we need a little help. 
 
 ### Work Backward
-When discussing strategy I like to start with where I (we) want to be in *X* days/weeks/months/years and **work backward** from there. I'm happy to discuss the day-to-day, but only in how it contributes toward our long term goals and vision.
+When discussing strategy I like to start with where I (we) want to be in **X** days/weeks/months/years and **work backward** from there. I'm happy to discuss the day-to-day, but only in how it contributes toward our long term goals and vision.
 
 **NOTE** *I'm prone to overcommitting myself when it comes to meeting with people. While I love spending time with each of you, that's time that I'm not spending on strategy, and that's a problem for you, me and the company. If you see me trending this way, let me know immediately.*
 
