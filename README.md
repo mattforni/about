@@ -7,7 +7,6 @@ This document is my *attempt* to capture how best to work with me. I imagine it 
 * I try to be as **open** and **transparent** as humanly possible and appreciate those who reciprocate.
 * I'm big on **feedback** and ask that you provide it *early* and *often*. **I will be.**
 * I appreciate a **sense of humor** so long as it comes with an understanding of when to be **serious**.
-* I've been described as **slow to "warm up"** to new people. Be assured that I genuinely **love** people but sometimes need some time to acclimate to new personalities.
 * I measure my life in terms of the relationships I’ve fostered and hope to spend **quality time** getting to know everyone I work with, regardless of role.
 * I find peace in the **outdoors** and regularly *completely disconnect*.
 * I use the **24-hour clock**. It can be confusing, I know and I'm sorry.
