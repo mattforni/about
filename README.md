@@ -110,10 +110,10 @@ I schedule 1:1s at different frequencies for different lengths of time depending
 ## Social Media
 I have found that social media **does not** serve me and as a result I have removed myself from most social networks. I have maintained a few sites which I find useful or necessary *(or so I'm told)*.
 
-* [Twitter](https://twitter.com/callmeforni)
-* [GitHub](https://github.com/mattforni)
-* [Goodreads](https://www.goodreads.com/user/show/50308926-matthew-fornaciari)
 * [LinkedIn](https://www.linkedin.com/in/mattforni)
+* [GitHub](https://github.com/mattforni)
+* [Strava](https://www.strava.com/athletes/11173662)
+* [Goodreads](https://www.goodreads.com/user/show/50308926-matthew-fornaciari)
 
 ## In Conclusion
 I'm really excited to be working with you! I hope this has been helpful in getting a bit more of an understanding as to how I operate. As I mentioned, this is by no means exhaustive and should be considered a living document. In that vein, I invite you to contribute to this document by providing me with feedback and helping me become better in all facets of the job. Cheers!
